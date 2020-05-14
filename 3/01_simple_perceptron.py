@@ -1,5 +1,6 @@
 '''
 3.3.2 単純パーセプトロン
+test
 '''
 
 import numpy as np
